@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Courses &#8211; explore keywords</title>
+	<atom:link href="/courses/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Keyword Research Tools</description>
+	<lastBuildDate>Sat, 19 Dec 2020 15:07:40 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/11/cropped-explorekeywords-1-32x32.png</url>
+	<title>Courses &#8211; explore keywords</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Do Keyword Research for SEO Using Free Tools &#8211; A beginner&#8217;s guide</title>
+		<link>/course/how-to-do-keyword-research-for-seo-using-free-tools/</link>
+					<comments>/course/how-to-do-keyword-research-for-seo-using-free-tools/#respond</comments>
+		
+		<dc:creator><![CDATA[Mohammad Athar]]></dc:creator>
+		<pubDate>Thu, 17 Dec 2020 05:35:42 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=course&#038;p=503</guid>
+
+					<description><![CDATA[In this course, we are going to discuss some easy-to-use methods for getting traffic from almighty Google and other tiny search engines including Bing+Microsoft+Yahoo, Yandex and Baidu. Note that we will are not going to use any Paid Tool or technical method. These methods can be easily understood by beginners. Another important thing worth noting [&#8230;]]]></description>
+		
+					<wfw:commentRss>/course/how-to-do-keyword-research-for-seo-using-free-tools/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

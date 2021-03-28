@@ -1,0 +1,25 @@
+{
+    "name": "Explore Keywords",
+    "short_name": "Explore Keywords",
+    "description": "Learn Keyword Research",
+    "icons": [
+        {
+            "src": "https:\/\/explorekeywords.com\/wp-content\/uploads\/2020\/11\/explorekeywords-1.png",
+            "sizes": "192x192",
+            "type": "image\/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https:\/\/explorekeywords.com\/wp-content\/uploads\/2020\/11\/explorekeywords-1.png",
+            "sizes": "512x512",
+            "type": "image\/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "background_color": "#D5E0EB",
+    "theme_color": "#000000",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "start_url": "https:\/\/explorekeywords.com\/?utm_source=pwa-app\u0026utm_medium=pwa-app\u0026utm_campaign=pwa-campaign\u0026utm_term=pwa-term\u0026utm_content=pwa-content",
+    "scope": "https:\/\/explorekeywords.com\/"
+}
