@@ -1,21 +1,21 @@
 <head>
-<script src="/cdn-cgi/apps/head/-2U0rbopZUtXAypTUwQ6Sr8DTRw.js"></script><script src="https://www.google.com/recaptcha/api.js" async defer type="dcbef63e9d5997d1e3d58b69-text/javascript"></script>
-<script src="https://www.gstatic.com/charts/loader.js" type="dcbef63e9d5997d1e3d58b69-text/javascript"></script>
+<script src="/cdn-cgi/apps/head/-2U0rbopZUtXAypTUwQ6Sr8DTRw.js"></script><script src="https://www.google.com/recaptcha/api.js" async defer type="aa7adcec01304da28e54942a-text/javascript"></script>
+<script src="https://www.gstatic.com/charts/loader.js" type="aa7adcec01304da28e54942a-text/javascript"></script>
 </head>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Keywords Volume Checker</title>
-<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous" type="dcbef63e9d5997d1e3d58b69-text/javascript"></script> <link rel="preconnect" href="https://fonts.gstatic.com">
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous" type="aa7adcec01304da28e54942a-text/javascript"></script> <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Open+Sans&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-<script src="https://kit.fontawesome.com/d591665a2d.js" crossorigin="anonymous" type="dcbef63e9d5997d1e3d58b69-text/javascript"></script>
+<script src="https://kit.fontawesome.com/d591665a2d.js" crossorigin="anonymous" type="aa7adcec01304da28e54942a-text/javascript"></script>
 <link rel="stylesheet" href="layout/style.css">
 <link rel="stylesheet" href="styles/KWVChecker.css">
-<script src="js/KWVChecker.js" type="dcbef63e9d5997d1e3d58b69-text/javascript"></script>
-<script src="layout/common.js" type="dcbef63e9d5997d1e3d58b69-text/javascript"></script>
+<script src="js/KWVChecker.js" type="aa7adcec01304da28e54942a-text/javascript"></script>
+<script src="layout/common.js" type="aa7adcec01304da28e54942a-text/javascript"></script>
 </head>
 <body>
 
@@ -24,7 +24,7 @@
 
 <header id="header" class="LogoClass">
 
-<script type="dcbef63e9d5997d1e3d58b69-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script type="aa7adcec01304da28e54942a-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -123,5 +123,5 @@
 <button id='download-btn'><i class="fas fa-download"></i>Download</button>
 <div class="printLogo"><div class="exploretext">explore</div><div class="boldText">keywords</div>.com</div>
 </div>
-<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="dcbef63e9d5997d1e3d58b69-|49" defer=""></script></body>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="aa7adcec01304da28e54942a-|49" defer=""></script></body>
 </html>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Content Writing &#8211; explore keywords</title>
+	<atom:link href="/category/content-writing/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Keyword Research Tools</description>
+	<lastBuildDate>Fri, 27 Nov 2020 05:50:06 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/11/cropped-explorekeywords-1-32x32.png</url>
+	<title>Content Writing &#8211; explore keywords</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Write SEO Friendly Title for Blog and Rank Higher in SERPs?</title>
+		<link>/how-to-write-seo-friendly-title-for-blog-and-rank-higher-in-serps/</link>
+					<comments>/how-to-write-seo-friendly-title-for-blog-and-rank-higher-in-serps/#respond</comments>
+		
+		<dc:creator><![CDATA[Mohammad Athar]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2020 14:57:48 +0000</pubDate>
+				<category><![CDATA[Content Writing]]></category>
+		<guid isPermaLink="false">/?p=223</guid>
+
+					<description><![CDATA[In this article, I will discuss in detail my way of choosing the title for a blog post which will help you rank in Google, Bing, Yandex and Baidu. Well, before we begin, I assume that: you know well what your niche is, you have purchased an appropriate domain name for your site, you also [&#8230;]]]></description>
+		
+					<wfw:commentRss>/how-to-write-seo-friendly-title-for-blog-and-rank-higher-in-serps/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Why do Most Bloggers Fail? Simple Reasons and Facts</title>
+		<link>/why-do-most-bloggers-fail-simple-reasons-and-facts/</link>
+					<comments>/why-do-most-bloggers-fail-simple-reasons-and-facts/#respond</comments>
+		
+		<dc:creator><![CDATA[Mohammad Athar]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2020 19:17:26 +0000</pubDate>
+				<category><![CDATA[Content Writing]]></category>
+		<guid isPermaLink="false">/?p=91</guid>
+
+					<description><![CDATA[A brief story I started blogging in 2014. Being a student of Arts Stream, it was difficult to know how to begin. Another problem, which I faced was to understand what exactly I want to write on. Initially, I thought of creating a site in which I would write about anything and everything which I [&#8230;]]]></description>
+		
+					<wfw:commentRss>/why-do-most-bloggers-fail-simple-reasons-and-facts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
