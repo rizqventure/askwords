@@ -1,20 +1,20 @@
 <head>
-<script src="/cdn-cgi/apps/head/-2U0rbopZUtXAypTUwQ6Sr8DTRw.js"></script><script src="https://www.google.com/recaptcha/api.js" async defer type="58824fd315f6416ee2e3225b-text/javascript"></script>
+<script src="/cdn-cgi/apps/head/-2U0rbopZUtXAypTUwQ6Sr8DTRw.js"></script><script src="https://www.google.com/recaptcha/api.js" async defer type="88e3505389e5bb1849c9b0ea-text/javascript"></script>
 </head>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>YouTube A to Z Keyword Research Tool</title>
-<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous" type="58824fd315f6416ee2e3225b-text/javascript"></script> <link rel="preconnect" href="https://fonts.gstatic.com">
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous" type="88e3505389e5bb1849c9b0ea-text/javascript"></script> <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Open+Sans&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-<script src="https://kit.fontawesome.com/d591665a2d.js" crossorigin="anonymous" type="58824fd315f6416ee2e3225b-text/javascript"></script>
+<script src="https://kit.fontawesome.com/d591665a2d.js" crossorigin="anonymous" type="88e3505389e5bb1849c9b0ea-text/javascript"></script>
 <link rel="stylesheet" href="layout/style.css">
 <link rel="stylesheet" href="styles/A-ZKWSuggest.css">
-<script src="js/A-ZKWSuggest_YT.js" type="58824fd315f6416ee2e3225b-text/javascript"></script>
-<script src="layout/common.js" type="58824fd315f6416ee2e3225b-text/javascript"></script>
+<script src="js/A-ZKWSuggest_YT.js" type="88e3505389e5bb1849c9b0ea-text/javascript"></script>
+<script src="layout/common.js" type="88e3505389e5bb1849c9b0ea-text/javascript"></script>
 </head>
 <body>
 
@@ -23,7 +23,7 @@
 
 <header id="header" class="LogoClass">
 
-<script type="58824fd315f6416ee2e3225b-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script type="88e3505389e5bb1849c9b0ea-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -62,7 +62,7 @@
 <div class="sectionHead">YouTube Tools</div>
 <ul>
 <div class="menuitem">
-<a href="https://explorekeywords.com/tools/youtube-a-z-keywords-suggestions.php"><li>A-Z Keywords Suggestions</li></a>
+ <a href="https://explorekeywords.com/tools/youtube-a-z-keywords-suggestions.php"><li>A-Z Keywords Suggestions</li></a>
 </div>
 <div class="menuitem">
 <a href="https://explorekeywords.com/tools/youtube-question-keywords-suggestions.php"><li>Question Keywords Suggestions</li></a>
@@ -115,5 +115,5 @@
 <div id="results" class="grid-container"></div>
 <button id='download-btn'><i class="fas fa-download"></i>Download</button>
 </div>
-<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="58824fd315f6416ee2e3225b-|49" defer=""></script></body>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="88e3505389e5bb1849c9b0ea-|49" defer=""></script></body>
 </html>

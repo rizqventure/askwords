@@ -3,15 +3,15 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Instant Keywords Suggestions</title>
-<script src="/cdn-cgi/apps/head/-2U0rbopZUtXAypTUwQ6Sr8DTRw.js"></script><script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous" type="b4e356f13a8197b9a0f14ed6-text/javascript"></script> <link rel="preconnect" href="https://fonts.gstatic.com">
+<script src="/cdn-cgi/apps/head/-2U0rbopZUtXAypTUwQ6Sr8DTRw.js"></script><script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous" type="1bb685df251ced720c155ed2-text/javascript"></script> <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Open+Sans&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-<script src="https://kit.fontawesome.com/d591665a2d.js" crossorigin="anonymous" type="b4e356f13a8197b9a0f14ed6-text/javascript"></script>
+<script src="https://kit.fontawesome.com/d591665a2d.js" crossorigin="anonymous" type="1bb685df251ced720c155ed2-text/javascript"></script>
 <link rel="stylesheet" href="layout/style.css">
 <link rel="stylesheet" href="styles/InstKWGenerator.css">
-<script src="js/InstKWGenerator.js" type="b4e356f13a8197b9a0f14ed6-text/javascript"></script>
-<script src="layout/common.js" type="b4e356f13a8197b9a0f14ed6-text/javascript"></script>
+<script src="js/InstKWGenerator.js" type="1bb685df251ced720c155ed2-text/javascript"></script>
+<script src="layout/common.js" type="1bb685df251ced720c155ed2-text/javascript"></script>
 </head>
 <body>
 
@@ -20,7 +20,7 @@
 
 <header id="header" class="LogoClass">
 
-<script type="b4e356f13a8197b9a0f14ed6-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script type="1bb685df251ced720c155ed2-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -39,6 +39,7 @@
 <div class="menuitem">
 <a href="https://explorekeywords.com/tools/keyword-volume-checker"><li>Keyword Volume Checker</li></a>
 </div>
+
 <div class="menuitem">
 <a href="https://explorekeywords.com/tools/instant-keywords-suggestions.php"><li>Instant Keywords Suggestions</li></a>
 </div>
@@ -107,6 +108,5 @@
 <div id="results" class="grid-container"></div>
 <button id='download-btn'><i class="fas fa-download"></i>Download</button>
 </div>
-<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="b4e356f13a8197b9a0f14ed6-|49" defer=""></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"636ce2153b66fef2","version":"2021.3.0","r":1,"si":10}'></script>
-</body>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="1bb685df251ced720c155ed2-|49" defer=""></script></body>
 </html>
